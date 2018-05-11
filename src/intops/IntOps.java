@@ -12,7 +12,7 @@ public class IntOps {
         int prod = a * b;
         int quot = a / b;
         int rem  = a % b;
-
+// Кароч, поменяем че-нить типа. И комитим =)
         System.out.println(a + " + " + b + " = " + sum);
         System.out.println(a + " * " + b + " = " + prod);
         System.out.println(a + " / " + b + " = " + quot);
